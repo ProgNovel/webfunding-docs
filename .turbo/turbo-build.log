@@ -1,0 +1,16 @@
+
+> docs@1.0.0 build /Users/radhy/Documents/@proyek/impostor-server/apps/docs
+> vitepress build
+
+vitepress v1.0.0-alpha.40
+- building client + server bundles...
+[32m✓[0m building client + server bundles...
+{
+  __name: 'SvgImage',
+  __ssrInlineRender: true,
+  props: { svg: null },
+  setup: [Function (anonymous)]
+}
+- rendering pages...
+[32m✓[0m rendering pages...
+build complete in 3.28s.
